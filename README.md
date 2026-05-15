@@ -1,3 +1,5 @@
 # Information
 
-Example script for educational purposes, do not try to use this at all.
+will rewrite soon xd
+
+script will also be public
